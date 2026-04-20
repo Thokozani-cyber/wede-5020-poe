@@ -1,9 +1,9 @@
 # Project Title
-Your project's title
+Web Development PART1 POE
 
 ## Student Information
-**Student number:** Your student number <br>
-**Student Name:** Your full name
+**St10479129 <br>
+**Student Name:** Thokozani Mtshweni
 
 ## Project Overview
 
@@ -24,3 +24,4 @@ Pull this from your project proposal.
 ## References
 
 Ensure that all sources used in your assignment are cited and referenced using the Harvard referencing style.
+next week.
