@@ -48,7 +48,7 @@ Testing & final submission Week 5 Cross-browser testing, README.md, zip file
 
 ## References
 
-9. References
+
 
 · Paws & Claws Animal Rescue. (2026). Internal rescue data and animal profiles. (Fictional organisation – original content created for this project.)
 · Google Maps Embed API. (2025). Embed a map. Retrieved from https://developers.google.com/maps/documentation/embed
