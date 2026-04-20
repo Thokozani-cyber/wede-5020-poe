@@ -2,7 +2,7 @@
 Web Development PART1 POE
 
 ## Student Information
-**St10479129 <br>
+**St10479129n <br>
 **Student Name:** Thokozani Mtshweni
 
 ## Project Overview
@@ -15,7 +15,7 @@ Pull this from your project proposal.
 
 ## Timeline and Milestones
 
-Pull this from your project proposal.
+Pull this from your project proposal
 
 ## Sitemap
 
